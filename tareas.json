@@ -1,0 +1,18 @@
+[
+ {
+  "titulo": "practicar Javascript",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "practicar git",
+  "estado": "en proceso"
+ },
+ {
+  "titulo": "practica NodeJs",
+  "estado": "completado"
+ },
+ {
+  "titulo": "Ver más en detalle metodologías ágiles",
+  "estado": "pendiente"
+ }
+]
